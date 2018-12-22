@@ -4,4 +4,5 @@ The project is quoted from; please refer to the next url for more information ab
 [Pintos-threads](web.stanford.edu/class/cs140/projects/pintos/pintos_2.html#SEC15)
 
 ### Objective
-> To extend the functionality of a minimally functional thread system
+
+To extend the functionality of a minimally functional thread system

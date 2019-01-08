@@ -6,7 +6,7 @@ The project is quoted from; refer to the next url for more information about pro
 
 ### Objective
 
-> This repository is a solution for all the Pintos operating system project phases i.e (1,2,3 &4 ). For each project phase solution a Git tag is committed to distinguish between different phases i.e (1,2,3 &4 ).
+>_This repository is a solution for all the Pintos operating system project phases i.e (1,2,3 &4 ). For each project phase solution a Git tag is committed to distinguish between different phases._
 
 > The aim of each phase is as follows:
 > * Pintos-1 i.e: Threads, To extend the functionality of a minimally functional thread system.

@@ -1,6 +1,6 @@
 # Pintos - project 1 [![Build Status](https://travis-ci.com/ziyadelbanna/Pintos-1.svg?branch=master)](https://travis-ci.com/ziyadelbanna/Pintos-1)
 
-> Dont use this repository for your coursework.
+_Dont use this repository for your coursework._
 
 The project is quoted from; refer to the next url for more information about project 1 
 

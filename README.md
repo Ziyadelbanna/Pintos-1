@@ -1,4 +1,4 @@
-# Pintos - project 1 [![Build Status](https://travis-ci.com/ziyadelbanna/Pintos-1.svg?branch=master)
+# Pintos - project 1 [![Build Status](https://travis-ci.com/ziyadelbanna/Pintos-1.svg?branch=master)]
 
 The project is quoted from; refer to the next url for more information about project 1 
 

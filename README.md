@@ -15,5 +15,5 @@ _Dont use this repository for your coursework._
 
 ### To-dos:
 * Commit Pintos phase 2
-* Commit Pintos phase 3
+* Commit Pintos phase 3.
 * Commit Pintos phase 4
